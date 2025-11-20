@@ -66,3 +66,8 @@
 {"level":"info","message":"::1 - - [16/Nov/2025:12:55:59 +0000] \"GET /api/sign-in HTTP/1.1\" 404 150 \"-\" \"HTTPie/3.2.2\"","service":"acquisitions-api","timestamp":"2025-11-16 20:55:59:5559"}
 {"level":"info","message":"::1 - - [16/Nov/2025:12:56:08 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"HTTPie/3.2.2\"","service":"acquisitions-api","timestamp":"2025-11-16 20:56:08:568"}
 {"level":"info","message":"::1 - - [16/Nov/2025:12:56:30 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"HTTPie/3.2.2\"","service":"acquisitions-api","timestamp":"2025-11-16 20:56:30:5630"}
+{"level":"info","message":"::1 - - [16/Nov/2025:12:59:13 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"HTTPie/3.2.2\"","service":"acquisitions-api","timestamp":"2025-11-16 20:59:13:5913"}
+{"level":"info","message":"::1 - - [16/Nov/2025:12:59:33 +0000] \"GET /api/ HTTP/1.1\" 200 43 \"-\" \"HTTPie/3.2.2\"","service":"acquisitions-api","timestamp":"2025-11-16 20:59:33:5933"}
+{"level":"info","message":"::1 - - [16/Nov/2025:12:59:38 +0000] \"GET /api/health HTTP/1.1\" 404 149 \"-\" \"HTTPie/3.2.2\"","service":"acquisitions-api","timestamp":"2025-11-16 20:59:38:5938"}
+{"level":"info","message":"API Status: Okieee~","service":"acquisitions-api","timestamp":"2025-11-16 20:59:57:5957"}
+{"level":"info","message":"::1 - - [16/Nov/2025:12:59:57 +0000] \"GET /api/status HTTP/1.1\" 200 133 \"-\" \"HTTPie/3.2.2\"","service":"acquisitions-api","timestamp":"2025-11-16 20:59:57:5957"}
