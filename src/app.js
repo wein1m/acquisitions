@@ -4,6 +4,7 @@ import helmet from 'helmet';
 import morgan from 'morgan';
 import cors from 'cors';
 import cookieParser from 'cookie-parser';
+import authRoutes from '#routes/auth.routes.js';
 
 const app = express();
 
@@ -23,12 +24,20 @@ app.get('/', (req, res) => {
   res.status(200).send('Yokosoo~');
 });
 
+app.get('/api', (req, res) => {
+  res.status(200).json({ message: 'The API is Running perfectly~' });
+});
+
+app.use('/api/auth', authRoutes);
+
 app.get('/api/status', (req, res) => {
   logger.info('API Status: Okieee~');
 
   res.status(200).send({
     status: 'UP',
     message: 'The API is up and running perfectly fine!!!!!!',
+    timestamp: new Date().toISOString(),
+    uptime: process.uptime(),
   });
 });
 
