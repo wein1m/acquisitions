@@ -120,3 +120,55 @@
 {"level":"info","message":"ralei@gmail.com has been created successfully🐰🎉","service":"acquisitions-api","timestamp":"2025-11-20 23:29:30:2930"}
 {"level":"info","message":"ralei@gmail.com has been registered successfully~","service":"acquisitions-api","timestamp":"2025-11-20 23:29:30:2930"}
 {"level":"info","message":"::1 - - [20/Nov/2025:15:29:30 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 100 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-20 23:29:30:2930"}
+{"level":"info","message":"Hellowww~","service":"acquisitions-api","timestamp":"2025-11-22 15:42:28:4228"}
+{"level":"info","message":"::1 - - [22/Nov/2025:07:42:28 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2025-11-22 15:42:28:4228"}
+{"level":"info","message":"::1 - - [22/Nov/2025:07:42:29 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2025-11-22 15:42:29:4229"}
+{"level":"info","message":"Hellowww~","service":"acquisitions-api","timestamp":"2025-11-22 15:42:56:4256"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [22/Nov/2025:07:42:56 +0000] \"GET / HTTP/1.1\" 200 8 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0\"","service":"acquisitions-api","timestamp":"2025-11-22 15:42:56:4256"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [22/Nov/2025:07:42:56 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0\"","service":"acquisitions-api","timestamp":"2025-11-22 15:42:56:4256"}
+{"level":"info","message":"::1 - - [22/Nov/2025:07:50:36 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2025-11-22 15:50:36:5036"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:04 +0000] \"POST /status HTTP/1.1\" 404 146 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:04:214"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:09 +0000] \"GET /status HTTP/1.1\" 404 145 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:09:219"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:10 +0000] \"GET /status HTTP/1.1\" 404 145 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:10:2110"}
+{"level":"info","message":"API Status: Okieee~","service":"acquisitions-api","timestamp":"2025-11-22 16:21:18:2118"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:18 +0000] \"GET /api/status HTTP/1.1\" 200 133 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:18:2118"}
+{"level":"info","message":"API Status: Okieee~","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:47 +0000] \"GET /api/status HTTP/1.1\" 200 134 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:47 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:47 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:47 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:47 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:47 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:47 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:47:2147"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:48 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:48 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:48 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:48 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:48 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:48 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:48 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:48:2148"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:49 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:49 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:49 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:49 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [22/Nov/2025:08:21:49 +0000] \"GET /api/status HTTP/1.1\" 403 54 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-11-22 16:21:49:2149"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Bot request blocked~~ ","path":"/api/status","service":"acquisitions-api","timestamp":"2025-11-22 16:22:09:229","userAgent":"curl/8.16.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [22/Nov/2025:08:22:09 +0000] \"GET /api/status HTTP/1.1\" 403 88 \"-\" \"curl/8.16.0\"","service":"acquisitions-api","timestamp":"2025-11-22 16:22:09:229"}
